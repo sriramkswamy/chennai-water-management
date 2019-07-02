@@ -1,0 +1,5 @@
+pandas
+seaborn
+tensorflow
+scikit-learn
+pytorch
