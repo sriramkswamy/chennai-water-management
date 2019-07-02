@@ -6,7 +6,10 @@
         {
             "label": "Python (Current File)",
             "type": "shell",
-            "command": "python ${file}",
+            "command": "~/.virtualenvs/global/bin/python",
+            "args": [
+                "${file}"
+            ],
             "problemMatcher": []
         }
     ]
